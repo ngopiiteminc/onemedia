@@ -40,9 +40,9 @@
 "HPK_ADMOB4" : "insurance",
 "HPK_ADMOB5" : "credit",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "Interstitial",
-"UNITY_GAME_ID" : "ID_UNITY",
+"UNITY_BANNER" : "Banner_Android",
+"UNITY_INTERSTITIAL" : "Interstitial_Android",
+"UNITY_GAME_ID" : "4769455",
 "UNITY_TEST_MODE" : false,
 
 "STARAPPID" : "201365479",
